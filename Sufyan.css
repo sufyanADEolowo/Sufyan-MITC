@@ -1,0 +1,26 @@
+.a{
+    color: red;
+}
+.b{
+    text-align: center;
+}
+body{
+    background-color: lightblue;
+}
+img{
+
+width: 300px;
+height: auto;
+}
+.c{
+    color: blue;
+    gap: 30px;
+    display: flex;
+}
+a:hover{
+    color: brown;
+}
+header{
+    display: flex;
+    justify-content: space-between;
+}
